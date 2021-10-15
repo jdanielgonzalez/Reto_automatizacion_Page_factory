@@ -12,7 +12,7 @@ Proyecto de Java para automatiar pruebas al sitio web:
 
 https://opensource-demo.orangehrmlive.com/index.php/auth/login
 
-Esta solucion presenta la estrategia de pruebas y la impelemntascion.
+Esta solucion presenta la estrategia de pruebas y la impelemtación.
 
 Los casos a probar son:
 
