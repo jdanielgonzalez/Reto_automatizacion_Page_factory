@@ -16,7 +16,7 @@ Esta solucion presenta la estrategia de pruebas y la impelemntascion.
 
 Los casos a probar son:
 
-**Modulo: ** Módulo PIM - Para el menú con ruta: Reports.
+**Modulo:** Módulo PIM - Para el menú con ruta: Reports.
 
 **Escenarios:** Crear un reporte y ejecutarlo.
 
